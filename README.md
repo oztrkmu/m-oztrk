@@ -1,9 +1,12 @@
 Hi, I'm Murat.
 
-Systems Engineer working on low-level software, Linux systems, and networked infrastructure. 
-I build tools and systems where reliability, performance, and clarity matter, focusing on C/C++, Linux, and protocol-level networking.
+Software engineer focused on systems programming, Linux, and networking.
 
-Tech: C, C# · Linux · POSIX · TCP/IP · sockets · git · gdb · make · bash
+Most of my work revolves around C, Linux, TCP/IP, sockets, debugging, and figuring out why things break at 3 AM.
 
-Links:
-LinkedIn: https://www.linkedin.com/in/oztrkmu/
+I like building simple, reliable software and understanding how things work beneath the abstractions.
+
+Tech: C, C#, Linux, POSIX, TCP/IP, sockets, git, gdb, make, bash
+
+LinkedIn:
+https://www.linkedin.com/in/oztrkmu/
